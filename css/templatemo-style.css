@@ -216,23 +216,23 @@ img
     }
 /* end divider */
 
-/* start khuyenmai */
+/* start khuyenmai #khly */
 
-#khuyenmai
+#khuyenmai #khly
     {
         background: #f8f8f8;
         padding-top: 80px;
         padding-bottom: 80px;
     }
-#khuyenmai p
+#khuyenmai #khly p
     {
         padding-top: 10px;
     }
-#khuyenmai span
+#khuyenmai #khly span
     {
         float: left;
     }
-#khuyenmai .fa
+#khuyenmai #khly .fa
     {
         background: #28a7e9;
         border-radius: 50%;
@@ -244,23 +244,23 @@ img
         text-align: center;
         margin-right: 20px;
     }
-/* end khuyenmai */
+/* end khuyenmai #khly */
 
-/* start khuyenmai1 */
-#khuyenmai1
+/* start khuyenmai #khly1 */
+#khuyenmai #khly1
     {
         padding-top: 60px;
         padding-bottom: 60px;
     }
-#khuyenmai1 p
+#khuyenmai #khly1 p
     {
         padding-top: 10px;
     }
-#khuyenmai1 span
+#khuyenmai #khly1 span
     {
         float: left;
     }
-#khuyenmai1 .fa
+#khuyenmai #khly1 .fa
     {
         background: #28a7e9;
         border-radius: 50%;
@@ -272,7 +272,7 @@ img
         text-align: center;
         margin-right: 20px;
     }
-/* end khuyenmai1 */
+/* end khuyenmai #khly1 */
 
 /* start pricing */
 #pricing
@@ -430,10 +430,10 @@ footer
     .pricing {
         margin-bottom: 20px;
     }
-    #khuyenmai img, #download img {
+    #khuyenmai #khly img, #download img {
         margin-top: 30px;
     }
-    #khuyenmai1 img {
+    #khuyenmai #khly1 img {
         margin-bottom: 30px;
     }
 }
@@ -442,7 +442,7 @@ footer
         height: auto;
         line-height: 2em;
     }
-    #khuyenmai, #pricing, #download {
+    #khuyenmai #khly, #pricing, #download {
         padding-top: 20px;
         padding-bottom: 40px;
     }
